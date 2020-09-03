@@ -1,3 +1,3 @@
-import ComponentA from "./ComponentA";
+import ComponentA from './ComponentA'
 
-export default ComponentA;
+export default ComponentA

@@ -1,10 +1,10 @@
 const theme = {
   colors: {
-    white: "#fff",
-    black: "#000",
+    white: '#fff',
+    black: '#000',
   },
-};
+}
 
-export type ITheme = typeof theme;
+export type ITheme = typeof theme
 
-export default theme;
+export default theme
